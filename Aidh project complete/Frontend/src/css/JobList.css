@@ -1,0 +1,20 @@
+.job-card {
+  border-radius: 12px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.job-detail {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.job-detail strong {
+  margin-right: 6px;
+}
+
+.job-detail .icon {
+  margin-right: 8px;
+  font-size: 18px;
+  color: #b0b0b0;
+}
